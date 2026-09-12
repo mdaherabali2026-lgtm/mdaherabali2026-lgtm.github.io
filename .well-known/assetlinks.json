@@ -1,1 +1,10 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siraz.sas9calculator",
+    "sha256_cert_fingerprints": [
+      "49:41:AC:E6:60:E2:9D:68:38:77:1B:9C:DA:DF:A2:DF:F7:6D:DB:B7:2D:3C:37:0D:A9:97:4D:74:7C:FE:5D:10"
+    ]
+  }
+}]
